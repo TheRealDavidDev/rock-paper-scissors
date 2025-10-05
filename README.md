@@ -3,7 +3,7 @@
 A simple Python game where you play Rock, Paper, Scissors against the computer.
 Each round, you choose one option and the computer randomly selects one too — the winner is decided based on the classic rules!
 
-![Game screenshot](screenshot.png)
+![Game screenshot](Screenshot.png)
 
 🕹 How to Run
 
@@ -30,3 +30,4 @@ Create a simple GUI using Tkinter.
 
 
 Add sound effects for fun gameplay.
+
